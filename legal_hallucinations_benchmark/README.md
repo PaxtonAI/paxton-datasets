@@ -3,7 +3,7 @@
 ## Description
 The Legal Hallucinations Benchmark is a dataset created by Dahl et al. as part of a collaboration between Yale Law School and Stanford University for the paper [Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models](https://arxiv.org/abs/2401.01301), subsampled and lightly edited for compatability with Paxton AI. The original, raw dataset published by the authors can be [found on Huggingface.](https://huggingface.co/datasets/reglab/legal_hallucinations)
 
-The Legal Hallucinations Benchmark contains eight task categories, each with 200 question/answer pairs, for a total of 1600 samples. All of these questions were run through Paxton AI's Case Law feature, and the platform's answers are provided in the dataset, along with a GPT-4 evaluation categorizing the answer as one of correct, hallucination, or abstention.
+The Legal Hallucinations Benchmark contains eight task categories, each with 200 question/answer pairs, for a total of 1600 samples. All of these questions were run through Paxton AI's Case Law feature, and the platform's answers are provided in the dataset, along with an evaluation categorizing the answer as one of correct, hallucination, or abstention.
 
 The tasks in detail are:
 - Affirm or Reverse: Predicting whether a higher court affirmed or reversed a lower court's decision in a given case.
@@ -16,7 +16,7 @@ The tasks in detail are:
 - Majority Author: Identify the author of a majority opinion in a given case.
 
 ## Published
-Published July 18th, 2024.
+Published July 17th, 2024.
 
 ## Dataset Structure
 The dataset contains the following columns:
