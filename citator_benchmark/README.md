@@ -7,7 +7,7 @@ The Citator Benchmark is an attorney-reviewed dataset containing pairs of citing
 Published June 29th, 2024.
 
 ## Dataset Structure
-The dataset comprises the following columns:
+The dataset contains the following columns:
 
 - cited_case_name: Name of the case whose status is being evaluated.
 - cited_case_citation: Citation of the cited case.
@@ -20,4 +20,3 @@ The dataset comprises the following columns:
 
 ## Access
 This dataset is available in CSV format and can be downloaded from this repository.
-
