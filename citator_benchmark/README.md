@@ -3,6 +3,9 @@
 ## Description
 The Citator Benchmark is an attorney-reviewed dataset containing pairs of citing and cited legal cases along with the "status" of the Cited Case given the way the Citing Case has treated it. Each record was developed by selecting a piece of caselaw, finding one of its citing cases, and having an attorney review the cases to determine the treatment of the Cited Case by the Citing Case. The relationships are classified as "cautionary" or "likely good," reflecting the potential reliability of the Cited Case.
 
+## Published
+Published June 29th, 2024.
+
 ## Dataset Structure
 The dataset comprises the following columns:
 
